@@ -3,6 +3,12 @@ This is my first project using Git so few things might not be the norms you expe
 
 This project uses lamda functions to build amazon skill
 
+If you want to play Friends Trivia on ALexa then follow this instructions:
+"Alexa, enable Friends Trivia"
+
+And to play it on a website:
+https://www.howwelldoyouknowfriends.com/
+
 
 
 
