@@ -1,5 +1,9 @@
 'use strict';
 
+/* instead of importing questions.js I have listed all the questions here
+var questions = require("./questions");
+*/
+
 var totalScore = 0;
 var newGame = 0;
 
